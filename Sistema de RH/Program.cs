@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Sistema_de_RH
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Menú menú = new Menú(100);
+            menú.EjecutarMenú();
+
+            Console.ReadLine();
+        }
+    }
+}

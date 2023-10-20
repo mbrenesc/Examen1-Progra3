@@ -1,0 +1,7 @@
+C:\Users\MichaelBC\source\repos\Sistema de RH\Sistema de RH\obj\Debug\Sistema de RH.csproj.AssemblyReference.cache
+C:\Users\MichaelBC\source\repos\Sistema de RH\Sistema de RH\obj\Debug\Sistema de RH.csproj.CoreCompileInputs.cache
+C:\Users\MichaelBC\source\repos\Sistema de RH\Sistema de RH\bin\Debug\Sistema de RH.exe.config
+C:\Users\MichaelBC\source\repos\Sistema de RH\Sistema de RH\bin\Debug\Sistema de RH.exe
+C:\Users\MichaelBC\source\repos\Sistema de RH\Sistema de RH\bin\Debug\Sistema de RH.pdb
+C:\Users\MichaelBC\source\repos\Sistema de RH\Sistema de RH\obj\Debug\Sistema de RH.exe
+C:\Users\MichaelBC\source\repos\Sistema de RH\Sistema de RH\obj\Debug\Sistema de RH.pdb
